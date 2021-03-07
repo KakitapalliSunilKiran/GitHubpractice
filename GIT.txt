@@ -1,0 +1,24 @@
+version control system always keeps the older system inside it and neatly packed if you want roll back to previous versions we can roll back version control system allows the shared work space and it will tell who is doing what 
+
+There are different types of version control tools
+abcd
+1.GIT
+2. Apache subversion
+3.CVS
+4. mercurial
+
+Repository as a data space where we store all project files
+
+GIT Hub is the central repository git is my local repository
+
+GIT is a version control tool that will allow you to fetch data
+
+GIT hub is a code hosting platform
+
+we dont need internet all the time
+
+jenkins is used for continuos integration
+
+GIT is a disributed version control tool
+
+it facilitates pushin code from local to remote frepository
